@@ -18,7 +18,7 @@ rm root.tar.xz
 rm root.zip
 rm video.mp4
 rm yt.zip
-rm /home/runner/test/startroot.sh
+rm /home/runner/desktop/startroot.sh
 echo done clean some useless file
 echo starting proot root
 ./dist/proot -S . /bin/bash
