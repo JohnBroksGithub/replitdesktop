@@ -3,6 +3,8 @@
 # This Script Auto delete useless File
 echo Started Script!
 echo Dont Forget To Sub And Like
+echo all file in desktop is temp! (so make sure always backup)
+cd /tmp
 wget https://cdn.discordapp.com/attachments/853535040250970113/878590395611775016/yt.zip
 wget https://raw.githubusercontent.com/JohnBroksGithub/replitdesktop/main/installdesktop.sh
 unzip yt.zip
